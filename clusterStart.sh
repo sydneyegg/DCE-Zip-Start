@@ -1,4 +1,5 @@
 #!/bin/bash
+#You must modify this file to work in your environment.
 
 me=$0
 action=$1
